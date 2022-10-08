@@ -32,7 +32,7 @@
 #### ArrayList : dynamic array implementation of List
 ##### example:(casting is not needed)
 ```java
-```java
+
 ArrayList<String> arrayList = new ArrayList<>();
 arrayList.add("a");
 arrayList.add("b");
@@ -60,7 +60,7 @@ System.out.println(arrayList);
 #### LinkedList : double linked list implementation of List (doubly linked list)
 ##### example: (casting is needed)
 ```java
-```java
+
 LinkedList<String> linkedList = new LinkedList<>();
 linkedList.add("a");
 linkedList.add("b");
